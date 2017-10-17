@@ -1,0 +1,3 @@
+# application.yml dans un dossier /config (à côté du JAR) est prioritaire à ce fichier. Cela permettra d'externaliser la configuration
+server:
+    port: 8085
